@@ -1,0 +1,29 @@
+.container-margin {
+    margin: 0 3rem;
+}
+
+.bg-image {
+    background-image: url('./Assets/header.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vh;
+}   
+.text-top {
+    color: #ffffff;
+}
+
+.text-brand {
+    color: rgb(244, 59, 59);
+}
+
+
+.custom-hover:hover {
+    color: rgb(175, 58, 58) !important;
+    transform: scale(1.1)
+}
+
+.section-gap {
+    margin-top: 5rem;
+}
